@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* Hi , I am Omnia Mohamed mobile apps developer.<br>* I graduated from faculty of computer and information ,Tanta university ,cs dept. <br>* How to reach me :<br>omnia.mohamed.elgezar@gmail.com</p>
+<p align="left">* Hi , I am Omnia Mohamed mobile apps developer.<br>* I graduated from faculty of computer and information ,Tanta university ,cs dept. <br>* How to reach me :<br> <a>omnia.mohamed.elgezar@gmail.com</a></p>
 
 ###
 
