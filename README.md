@@ -1,8 +1,8 @@
-<h1 align="left">Hey👋</h1>
+<h1 align="left">Hey I am Omnia Mohamed 👋</h1>
 
 ###
 
-<p align="left">* Hi , I am Omnia Mohamed mobile apps developer.<br>* I graduated from faculty of computer and information ,Tanta university ,cs dept.<br>* How to reach me :<br>omnia.mohamed.elgezar@gmail.com</p>
+<p align="left">* I am mobile apps developer.<br>* I graduated from faculty of computer and information ,Tanta university ,cs dept.<br>* How to reach me :<br>omnia.mohamed.elgezar@gmail.com</p>
 
 ###
 
